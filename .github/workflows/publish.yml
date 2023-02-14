@@ -1,7 +1,8 @@
 name: Publish nodejs package
 
 on:
-  push:
+  release:
+    types: [created]
 
 jobs:
   build:
