@@ -1,0 +1,31 @@
+{
+  "name": "@ai-nsley69/ains-bot-handler",
+  "version": "0.1.0",
+  "description": "A discord.js command and event handler",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AI-nsley69/ains-bot-handler.git"
+  },
+  "publishConfig": {
+    "@ai-nsley69:registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "discordjs",
+    "discord-bot"
+  ],
+  "author": "Trainsley69 <not@trainsley69.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AI-nsley69/ains-bot-handler/issues"
+  },
+  "homepage": "https://github.com/AI-nsley69/ains-bot-handler#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "discord.js": "^14.7.1"
+  }
+}
